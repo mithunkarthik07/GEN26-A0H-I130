@@ -1,13 +1,13 @@
-```markdown
+
 # Genesis 2026: Ideathon
 
 ## GEN26-A0H-I130
 
 ### Team Details
 
-**Team Name:** TECH ENTITY
+#### **Team Name:** TECH ENTITY
 
-### Team Members
+#### Team Members
 
 | Role | 👤 Name | 🎓 Roll Number | ⚧️ Gender | 🏫 Department / Programme | 🏠 Hostel Details |
 |:---:|:---|:---:|:---:|:---:|:---:|
